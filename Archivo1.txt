@@ -1,1 +1,6 @@
-Peruren Hirukoaaaa
+Peru de landa maizzzzztegiiiii
+
+git init
+git status
+git add . 
+git commit -m "esto para guardar"commitear"
