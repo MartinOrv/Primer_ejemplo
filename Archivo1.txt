@@ -4,3 +4,6 @@ git init
 git status
 git add . 
 git commit -m "esto para guardar"commitear"
+git branch rama_Martin (para crear una rama)
+git branch -a (para ver la rama activa)
+git checkout rama_Martin (para cambiar de rama)
